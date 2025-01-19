@@ -1,0 +1,66 @@
+{
+    "pokemons":[
+        {
+            "id":730,
+            "tipus":["Agua","Hada"],
+            "pes":[44,"kg"],
+            "altura":[1.8,"m"],
+            "estadistiques":{
+                "PS":80,
+                "atac":74,
+                "defensa":74,
+                "atac especial":126,
+                "defensa especial":116,
+                "velocitat":60
+            },
+            "moviments":[
+                {
+                    "nom":"Vozarrón",
+                    "descripcio":"Vozarrón causa daño y no tiene ningún efecto secundario. En combates dobles daña a todos los Pokémon rivales, mientras que en los combates triples daña a todos los oponentes adyacentes.",
+                    "potencia":90,
+                    "contacte":false
+                },
+                {
+                    "nom":"Brillo mágico",
+                    "descripcio":"Brillo mágico causa daño y no tiene ningún efecto secundario. En combates dobles o triples golpea a todos los oponentes adyacentes al usuario.",
+                    "potencia":80,
+                    "contacte":false
+                }
+
+            ],
+            "imatge":"https://www.google.com/imgres?q=primarina&imgurl=https%3A%2F%2Fimages.wikidexcdn.net%2Fmwuploads%2Fwikidex%2Fthumb%2F1%2F14%2Flatest%2F20161219023348%2FPrimarina.png%2F800px-Primarina.png&imgrefurl=https%3A%2F%2Fwww.wikidex.net%2Fwiki%2FPrimarina&docid=r7UW1eD1f4gnHM&tbnid=ciYRRy-0IPNtJM&vet=12ahUKEwj7gvn3soKLAxW3VaQEHXVcN_0QM3oECB0QAA..i&w=800&h=738&hcb=2&ved=2ahUKEwj7gvn3soKLAxW3VaQEHXVcN_0QM3oECB0QAA",
+            "evolucions":null
+        },
+        {
+            "id":656,
+            "tipus":["Agua",null],
+            "pes":[7,"kg"],
+            "altura":[0.3,"m"],
+            "estadistiques":{
+                "PS":41,
+                "atac":56,
+                "defensa":40,
+                "atac especial":62,
+                "defensa especial":44,
+                "velocitat":71
+            },
+            "moviments":[
+                {
+                    "nom":"Hidroariete",
+                    "descripcio":"Hidroariete causa daño y tiene una probabilidad del 20% de bajar en un nivel la defensa del objetivo.",
+                    "potencia":85,
+                    "contacte":true
+                },
+                {
+                    "nom":"Rayo hielo",
+                    "descripcio":"Rayo hielo causa daño y tiene una probabilidad del 10% de congelar al objetivo.",
+                    "potencia":90,
+                    "contacte":false
+                }
+
+            ],
+            "imatge":"https://www.google.com/imgres?q=froakie&imgurl=https%3A%2F%2Fwww.pokemon.com%2Fstatic-assets%2Fcontent-assets%2Fcms2%2Fimg%2Fpokedex%2Ffull%2F656.png&imgrefurl=https%3A%2F%2Fwww.pokemon.com%2Fes%2Fpokedex%2Ffroakie&docid=y2SvwAcMCT1rlM&tbnid=rPI9pvmsPstXMM&vet=12ahUKEwil7qO5toKLAxVTQfEDHZ9bCXcQM3oECBoQAA..i&w=475&h=475&hcb=2&ved=2ahUKEwil7qO5toKLAxVTQfEDHZ9bCXcQM3oECBoQAA",
+            "evolucions":[657,16]
+        }
+    ]    
+}

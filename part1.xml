@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding = "utf-8"?>
+	<tienda>
+		<!-- producto 1 -->
+		<producto id="3019">
+			<nombre>funda movil</nombre>
+			<descripcion>Funda negra para móviles Iphone 3/3S/4</descripcion>
+			<precio divisa = "EUR">24.59</precio>
+			<categoria>
+				<principal>Móviles</principal>
+				<subcategoria>Complementos</subcategoria>
+			</categoria>
+			
+			<!-- La disponibilidad puede ser "En stock" o "Agotado" -->
+			<disponibilidad>En stock</disponibilidad>
+			<imagen>https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iphoneweb.es%2Frepuestos-iphone-4%2Ffundas-iphone-44s%2Ffunda-ultra-slim-iphone-44s.html&psig=AOvVaw1VHznEywnj8SrB2hbLpvQ8&ust=1734175761200000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDzu6fSpIoDFQAAAAAdAAAAABAE
+			</imagen>
+		</producto>
+		
+		<!-- producto 2 -->
+		<producto id="3020">
+			<nombre>El nombre del viento</nombre>
+			<descripción> Primer libro de la saga "Crónica del asesino de reyes" de Patrick Rothfuss </descripcion>
+			<precio divisa = "EUR">23.50</precio>
+			<categoria>
+				<principal>Libros</principal>
+				<subcategoria>Fantasía</subcategoria>
+			</categoria>
+			
+			<!-- La disponibilidad puede ser "En stock" o "Agotado" -->
+			<disponibilidad>Agotado</disponibilidad>
+			<imagen>
+				https://m.media-amazon.com/images/I/91PjnllfsxL._SL1500_.jpg
+			</imagen>
+		</producto>
+	</tienda>
